@@ -1,7 +1,7 @@
 
 # Hello!
 
-This was a project at https://perpetual.education/. 
+This was a project for [Perpetual Education's](https://perpetual.education) "Design For The Web" course.
 
 # Goal
 
